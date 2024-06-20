@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/theloganhoag" target="blank"><img src="https://img.shields.io/twitter/follow/theloganhoag?logo=twitter&style=for-the-badge" alt="theloganhoag" /></a> </p>
 
-- 🔭 I’m currently working on [a personal blog site](loganhoag.com)
+- 🔭 I’m currently working on [a personal blog site](https://loganhoag.com/)
 
-- 📝 I regularly write articles on [loganhoag.com](loganhoag.com)
+- 📝 I regularly write articles on [loganhoag.com](https://loganhoag.com/)
 
 - 💬 Ask me about **Indie Hacking & Malware Development**
 
