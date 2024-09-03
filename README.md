@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentk0i&label=Profile%20views&color=0e75b6&style=flat" alt="silentk0i" /> </p>
 
-<p align="left"> <a href="https://twitter.com/theloganhoag" target="blank"><img src="https://img.shields.io/twitter/follow/theloganhoag?logo=twitter&style=for-the-badge" alt="theloganhoag" /></a> </p>
+<p align="left"> <a href="https://twitter.com/silentk0i" target="blank"><img src="https://img.shields.io/twitter/follow/silentk0i?logo=twitter&style=for-the-badge" alt="silentk0i" /></a> </p>
 
 - 🔭 I’m currently working on [a stage 0 C2]
 
