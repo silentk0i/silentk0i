@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/theloganhoag" target="blank"><img src="https://img.shields.io/twitter/follow/theloganhoag?logo=twitter&style=for-the-badge" alt="theloganhoag" /></a> </p>
 
-- 🔭 I’m currently working on [a personal blog site](https://loganhoag.com/)
+- 🔭 I’m currently working on [a stage 0 C2]
 
 - 📝 I regularly write articles on [loganhoag.com](https://loganhoag.com/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/theloganhoag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theloganhoag" height="30" width="40" /></a>
+<a href="https://twitter.com/silentk0i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silentk0i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/logan-hoag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-hoag" height="30" width="40" /></a>
 </p>
 
