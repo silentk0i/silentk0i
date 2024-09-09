@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/silentk0i" target="blank"><img src="https://img.shields.io/twitter/follow/silentk0i?logo=twitter&style=for-the-badge" alt="silentk0i" /></a> </p>
 
-- 🔭 I’m currently working on [a stage 0 C2]
+- 🔭 I’m currently working on a [stage 0 C2](https://github.com/silentk0i/Muad-Dib)
 
 - 📝 I regularly write articles on [loganhoag.com](https://loganhoag.com/)
 
