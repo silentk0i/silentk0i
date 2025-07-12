@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/hoagiehacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silentk0i" height="30" width="40" /></a>
+<a href="https://x.com/hoagiehacks" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AX_logo.jpg&psig=AOvVaw0LsZWXdKrjz6sLHLkQbGqC&ust=1752426452272000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjO8rLnt44DFQAAAAAdAAAAABAE" alt="silentk0i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/logan-hoag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-hoag" height="30" width="40" /></a>
 </p>
 
