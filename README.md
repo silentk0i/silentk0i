@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Logan Hoag</h1>
-<h3 align="center">An entrepreneur & offensive security enthusiast</h3>
+<h1 align="center">Hey I'm Logan Hoag</h1>
+<h3 align="center">I love destroying kernel's with pizazz</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentk0i&label=Profile%20views&color=0e75b6&style=flat" alt="silentk0i" /> </p>
 
 <p align="left"> <a href="https://twitter.com/silentk0i" target="blank"><img src="https://img.shields.io/twitter/follow/silentk0i?logo=twitter&style=for-the-badge" alt="silentk0i" /></a> </p>
 
-- 🔭 I’m currently working on a [stage 0 C2](https://github.com/silentk0i/Muad-Dib)
+- Looking for a CTF team to join!
 
-- 📝 I regularly write articles on [loganhoag.com](https://loganhoag.com/)
+- Blog site at [loganhoag.com](https://loganhoag.com/)
 
-- 💬 Ask me about **Indie Hacking & Malware Development**
+- Research Topics **AV/EDR evasion development & Linux Kernel Pwn**
 
-- 📫 How to reach me **hoagie195@gmail.com**
+- How to reach me **hoagie195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/silentk0i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silentk0i" height="30" width="40" /></a>
+<a href="https://x.com/hoagiehacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silentk0i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/logan-hoag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-hoag" height="30" width="40" /></a>
 </p>
 
