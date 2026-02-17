@@ -6,6 +6,6 @@
 
 Blog: [loganhoag.com](https://loganhoag.com/)
 
-Research Topics include **evasion & exploits & obfuscation & ML**
+Research Topics include **evasion & exploits & AI & ML**
 
 Reach me at: **hoagie195@gmail.com**
