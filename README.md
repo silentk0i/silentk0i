@@ -6,6 +6,6 @@
 
 Blog: [loganhoag.com](https://loganhoag.com/)
 
-Research Topics include **evasion & exploits & AI & ML**
+Research Topics: **implant dev, μarch, platform initialization & min-maxing**
 
 Reach me at: **hoagie195@gmail.com**
